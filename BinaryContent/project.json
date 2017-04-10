@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "debugType": "portable",
+    "emitEntryPoint": false
+  },
+  "dependencies": {
+  },
+  "frameworks": {
+    "net461": {
+      "frameworkAssemblies": {
+        "System.Management.Automation": ""
+      }
+    }
+  }
+}

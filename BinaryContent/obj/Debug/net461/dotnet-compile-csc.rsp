@@ -1,0 +1,19 @@
+﻿-d:DEBUG
+-d:TRACE
+-d:NET461
+-nowarn:CS1701
+-nowarn:CS1702
+-nowarn:CS1705
+-t:library
+-debug:portable
+-nostdlib
+-nologo
+"C:\Users\dan-f\Code\PSWrite-DiskImage\BinaryContent\obj\Debug\net461\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\dan-f\Code\PSWrite-DiskImage\BinaryContent\bin\Debug\net461\BinaryContent.dll"
+-r:"C:\Users\dan-f\.nuget\packages\System.Management.Automation\6.1.7601.17515\lib\net45\System.Management.Automation.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll"
+"C:\Users\dan-f\Code\PSWrite-DiskImage\BinaryContent\GetBinaryContentCommand.cs"
+"C:\Users\dan-f\Code\PSWrite-DiskImage\BinaryContent\SetBinaryConentCommand.cs"

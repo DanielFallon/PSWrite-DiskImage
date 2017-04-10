@@ -1,0 +1,23 @@
+--temp-output:C:\Users\dan-f\Code\PSWrite-DiskImage\BinaryContent\obj\Debug\net461\
+--out:C:\Users\dan-f\Code\PSWrite-DiskImage\BinaryContent\bin\Debug\net461\BinaryContent.dll
+--define:DEBUG
+--define:TRACE
+--define:NET461
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--optimize:False
+--debug-type:portable
+--emit-entry-point:False
+--output-name:BinaryContent
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.6.1
+--reference:C:\Users\dan-f\.nuget\packages\System.Management.Automation\6.1.7601.17515\lib\net45\System.Management.Automation.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll
+C:\Users\dan-f\Code\PSWrite-DiskImage\BinaryContent\GetBinaryContentCommand.cs
+C:\Users\dan-f\Code\PSWrite-DiskImage\BinaryContent\SetBinaryConentCommand.cs
